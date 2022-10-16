@@ -3,7 +3,7 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
-    
+
     <string name="q_merkury">Merkury jest najgorętszą planetą w układzie słonecznym</string>
     <string name="q_ciaza">Słuchanie muzyki klasycznej w ciąży przyczynia się do rozwoju inteligencji dziecka</string>
     <string name="q_ziemia">Jądro Ziemi jest tak gorące jak Słońce</string>
@@ -16,5 +16,7 @@
 
     <string name="correct_answer">Poprawna odpowiedź!</string>
     <string name="incorrect_answer">Niepoprawna odpowiedź :(</string>
+
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
 
 </resources>
